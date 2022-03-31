@@ -72,6 +72,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="3924"
       name="Intermediary"
+      textAlignment="1"
       fillColor="#dafecb">
     <bounds
         x="570"
@@ -141,6 +142,7 @@
       xsi:type="archimate:DiagramModelGroup"
       id="3906"
       name="Archisurance"
+      textAlignment="1"
       fillColor="#dafecb">
     <bounds
         x="10"

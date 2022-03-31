@@ -28,7 +28,8 @@
   </children>
   <children
       xsi:type="archimate:DiagramModelGroup"
-      id="4299">
+      id="4299"
+      textAlignment="1">
     <bounds
         x="80"
         y="300"
@@ -135,7 +136,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4289"
-      name="Front office Applications">
+      name="Front office Applications"
+      textAlignment="1">
     <bounds
         x="80"
         y="40"

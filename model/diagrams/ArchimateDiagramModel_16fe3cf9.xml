@@ -7,7 +7,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="ecc8b6ec"
-      name="Products &amp; Services Goals">
+      name="Products &amp; Services Goals"
+      textAlignment="1">
     <bounds
         x="36"
         y="12"
@@ -53,7 +54,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="9c7d3573"
-      name="Financial Goals">
+      name="Financial Goals"
+      textAlignment="1">
     <bounds
         x="36"
         y="228"
@@ -99,7 +101,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="aaabac4c"
-      name="ICT-Goals">
+      name="ICT-Goals"
+      textAlignment="1">
     <bounds
         x="36"
         y="468"

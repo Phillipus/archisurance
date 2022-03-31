@@ -50,7 +50,8 @@
   <children
       xsi:type="archimate:DiagramModelGroup"
       id="4010"
-      name="Travel Insurance">
+      name="Travel Insurance"
+      textAlignment="1">
     <bounds
         x="40"
         y="200"
