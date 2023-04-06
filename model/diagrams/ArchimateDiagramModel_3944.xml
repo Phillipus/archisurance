@@ -8,7 +8,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3955"
       targetConnections="3964"
-      fillColor="#80ffff">
+      fillColor="#80ffff"
+      type="1">
     <bounds
         x="430"
         y="240"
@@ -22,7 +23,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3953"
       targetConnections="3962"
-      fillColor="#80ffff">
+      fillColor="#80ffff"
+      type="1">
     <bounds
         x="430"
         y="100"
@@ -36,7 +38,8 @@
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3954"
       targetConnections="3963"
-      fillColor="#80ffff">
+      fillColor="#80ffff"
+      type="1">
     <bounds
         x="430"
         y="170"
@@ -49,7 +52,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="3956"
-      fillColor="#0db0ff">
+      fillColor="#0db0ff"
+      type="1">
     <bounds
         x="30"
         y="40"
@@ -58,7 +62,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3959"
-        fillColor="#8080ff">
+        fillColor="#8080ff"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3962"
@@ -80,7 +85,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3961"
-        fillColor="#8080ff">
+        fillColor="#8080ff"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3964"
@@ -102,7 +108,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3958"
-        fillColor="#8080ff">
+        fillColor="#8080ff"
+        type="1">
       <bounds
           x="20"
           y="130"
@@ -115,7 +122,8 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="3960"
-        fillColor="#8080ff">
+        fillColor="#8080ff"
+        type="1">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="3963"
